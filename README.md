@@ -6,6 +6,7 @@
 --here to learn
 learn to angular
 I am learning javascript
+I am learning typescript
 <!---
 PREMLATASINGH/PREMLATASINGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
