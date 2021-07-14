@@ -9,6 +9,7 @@ I am learning javascript
 I am learning typescript
 typescript is a superset of javascript. It added types of javascript.
 I am learning english
+angular is a javascript binding framework.
 
 <!---
 PREMLATASINGH/PREMLATASINGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
