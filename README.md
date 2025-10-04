@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---here to learn
-learn to angular
+
 I am learning javascript
 I am learning typescript
 typescript is a superset of javascript. 
